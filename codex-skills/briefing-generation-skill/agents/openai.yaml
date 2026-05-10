@@ -1,0 +1,4 @@
+interface:
+  display_name: "Briefing Generation Skill"
+  short_description: "Assemble illustrated arXiv briefing reports."
+  default_prompt: "Use $briefing-generation-skill to assemble Markdown, CSV, JSON, metrics, and embedded figures into a portable arXiv briefing report."
