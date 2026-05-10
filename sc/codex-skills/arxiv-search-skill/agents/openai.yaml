@@ -1,0 +1,4 @@
+interface:
+  display_name: "Arxiv Search Skill"
+  short_description: "Search arXiv papers for daily briefings."
+  default_prompt: "Use $arxiv-search-skill to define retrieval inputs, outputs, and evaluation for an arXiv briefing agent."

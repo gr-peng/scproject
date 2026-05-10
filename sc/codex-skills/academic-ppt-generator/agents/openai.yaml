@@ -1,0 +1,4 @@
+interface:
+  display_name: "Academic PPT Generator"
+  short_description: "Generate editable academic PPT decks."
+  default_prompt: "Use $academic-ppt-generator to create a concise, editable academic PowerPoint deck from the bundled local template."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Paper Summarization Skill"
+  short_description: "Summarize arXiv papers for daily briefings."
+  default_prompt: "Use $paper-summarization-skill to define extraction rules and evaluation for arXiv paper summaries."

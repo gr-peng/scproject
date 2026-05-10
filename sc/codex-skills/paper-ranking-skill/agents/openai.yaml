@@ -1,0 +1,4 @@
+interface:
+  display_name: "Paper Ranking Skill"
+  short_description: "Rank arXiv papers for daily briefings."
+  default_prompt: "Use $paper-ranking-skill to define ranking inputs, scores, and evaluation for an arXiv briefing agent."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Visualization Skill"
+  short_description: "Create metrics and embeddable charts for arXiv briefings."
+  default_prompt: "Use $visualization-skill to compute briefing metrics, generate polished charts, and return a figure manifest for direct report embedding."
